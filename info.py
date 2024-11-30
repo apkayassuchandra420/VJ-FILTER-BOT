@@ -20,9 +20,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 
 # This Pics Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://vault.pictures/p/5446eba1b99e4abfb1559f0e6bdff15d')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://envs.sh/Ykk.jpg')).split() #SAMPLE PIC
 
-NOR_IMG = environ.get("NOR_IMG", "https://vault.pictures/p/5446eba1b99e4abfb1559f0e6bdff15d")
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/Panchayat_season_3_webserees")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
