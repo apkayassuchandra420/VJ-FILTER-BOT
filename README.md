@@ -2,10 +2,10 @@
   <img src="https://envs.sh/Ykk.jpg" alt="Angel Alita">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  ANGEL ALITA BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Angel+Alita+Bot!)
 </p>
 
 ## Main Feature 
