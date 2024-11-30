@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://envs.sh/Ykk.jpg" alt="Angel Alita">
 </p>
 <h1 align="center">
   VJ FILTER BOT
